@@ -1,0 +1,10 @@
+.btn-blue {
+	display: inline-block;
+	background-color: rgb(160, 134, 196);
+	padding: 10px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family:  'Lora', sans-serif;
+	text-decoration: none;
+}	

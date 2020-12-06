@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body { 
+  	font-family:  'Lora', sans-serif;
+  	  font-size: 18px;
+  	  margin: 0px;
+  	  color: black;
+}
+
+h1, h2, h3 { 
+  	font-family : 'Roboto', sans-serif;
+  	font-weight: bold;
+  	color: rgb(232, 215, 105);
+}	
+
+h4{
+	color: rgb(163 144 199) ;
+font-size: 13
+font-weight: 600px;
+font-weight:bold;	
+text-align: center;
+}
+
+a:hover { 
+	color: black ;
+
+}
+
+.list-inline {
+	list-style: :none;
+padding-left: 0px;	
+}
+
+.list-inline {
+	display: inline;
+	padding: 10px;
+}
+
+#introduction p {
+margin-bottom: 40px
+}
+
+.card-white1 {
+    background-color: white;
+    padding: 40px ;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 4PX;
+    margin: 20PX 0px; 
+    text-align : center;
+    
+    }
+
+    .card-white1{
+      text-align: center;
+
+      
+    }
+
